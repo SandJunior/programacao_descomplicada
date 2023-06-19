@@ -1,2 +1,2 @@
-# programacao_descomplicada
-Resoluções de exercícios do site Programação Descomplicadas feitos por mim
+# Programação Descomplicada
+Resoluções de exercícios do site Programação Descomplicada feitos por mim.
