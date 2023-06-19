@@ -1,2 +1,2 @@
-# Programação Descomplicada
-Resoluções de exercícios do site Programação Descomplicada feitos por mim.
+# Alocação Dinâmica
+Resoluções de exercícios referentes ao conteúdo de alocação dinâmica.
