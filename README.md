@@ -1,2 +1,2 @@
-# Programação Descomplicada
-Resoluções de exercícios do site Programação Descomplicada feitos por mim.
+# Ponteiros
+Resoluções de exercícios referentes ao conteúdo de ponteiros.
