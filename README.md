@@ -1,2 +1,2 @@
-# Programação Descomplicada
-Resoluções de exercícios do site Programação Descomplicada feitos por mim.
+# Arquivos
+Resoluções de exercícios referentes ao conteúdo de arquivos.
