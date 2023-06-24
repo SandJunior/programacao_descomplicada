@@ -12,7 +12,7 @@ int main(){
 	
 	if (&var1 > &var2)
 	{
-		printf("Conteudo da primeiro inteiro: %d", var1);
+		printf("Conteudo do primeiro inteiro: %d", var1);
 	}
 	
 	else if (&var1 < &var2)
