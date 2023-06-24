@@ -3,10 +3,11 @@
 int main(){
 	
 	int var1 = 3;
-	printf("\nTipo inteiro antes: %d\n", var1);
 	float var2 = 1.2;
-	printf("\nTipo float antes: %f\n", var2);
 	char var3 = 'y';
+	
+	printf("\nTipo inteiro antes: %d\n", var1);
+	printf("\nTipo float antes: %f\n", var2);
 	printf("\nTipo char antes: %c\n", var3);
 	
 	int *ptrvar1 = &var1;
